@@ -128,6 +128,10 @@ namespace FIcon
                             case "pink":
                             case "black":
                             case "white":
+                            case "babyblue":
+                            case "cherry":
+                            case "lemon":
+                            case "peach":
                                 TagFolder(args[1], tagColor);
                                 break;
                             default:
